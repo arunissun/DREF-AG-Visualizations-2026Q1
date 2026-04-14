@@ -1,0 +1,39 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# JavaScript tooling
+node_modules/
+
+# Generated assets
+outputs/
+data/processed/
+
+DREF_MasterDataset_v1.1 .xlsx
+
+# DREF source spreadsheets and presentation decks
+*DREF*.xlsx
+*DREF*.xls
+*DREF*.xlsm
+*.ppt
+*.pptx
+
+# D3-related package metadata and local notes/info
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+npm-shrinkwrap.json
+*d3*package*
+*d3*info*
+package.json
+.python-version
+src/main.js
+index.html
+main.py
