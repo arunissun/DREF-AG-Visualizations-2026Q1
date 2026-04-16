@@ -15,6 +15,7 @@ node_modules/
 # Generated assets
 outputs/
 data/processed/
+data/config/mapbox.local.json
 
 DREF_MasterDataset_v1.1 .xlsx
 
@@ -37,3 +38,4 @@ package.json
 src/main.js
 index.html
 main.py
+plan*
