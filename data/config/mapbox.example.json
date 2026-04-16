@@ -1,0 +1,12 @@
+{
+  "mapbox_token": "YOUR_MAPBOX_TOKEN",
+  "style_url": "style url ",
+  "country_tileset_url": "your vector tileset url",
+  "country_source_layer": "go-countries",
+  "country_join_key": "iso3",
+  "notes": {
+    "intended_use": "Humanitarian-style global allocation maps for DREF map notebooks",
+    "polygon_join": "Use iso3 to match wrangled country data to the vector source when polygon fills are needed",
+    "basemap_use": "Use style_url directly for pydeck or deck.gl Mapbox-backed views"
+  }
+}
